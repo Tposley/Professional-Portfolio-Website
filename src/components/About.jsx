@@ -40,7 +40,7 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Computer Science student at LSU University with a passion
+        I am a Computer Science student at Louisiana State University with a passion
         for Videogame Development, Web Development, and Traveling. I am looking
         to join a company that values innovation, collaboration, and continuous learning and am
         confident that my enthusiasm and drive will help me succeed in any role.
